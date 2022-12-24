@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Encriptador cactus</title>
+
+
+
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/style1.css" />
+  <link rel="stylesheet" href="css/normalize.css">
+
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700&display=swap" rel="stylesheet">
+
+
+</head>
+<body>
+
+<!-- partial:index.partial.html -->
+<div class="container">
+  <div id="cloud-intro">
+<!-- partial -->
+
+
+  <div class="encriptador">
+      <h1 class="encriptador__logo"><img class="encriptador__img" src="./img/Logo.png" alt=""> p asdsdasd</h1>
+      <div class="input">
+          <form class="input__form" action="">
+              <textarea class="input__texto textarea" id="texto" type="text"
+                  placeholder="Ingrese el texto aqui"></textarea>
+              <div class="input__extra">
+                  <p class="input__advertencia"> <span><img src="./img/Vector.svg" alt="vetor"></span> Solo letras minúsculas y sin acentos</p>
+                  <a class="boton-borrar " id="botonborrar" type="button" value="borrar"><span class="boton__span boton__span-borrar">borrar</span></a>
+                </div>
+                <div class="input__botones">
+                    <a class=" boton" id="botonEnc" type="button" value="Encriptar"><span class="boton__span boton__span-encriptar">Encriptar</span></a>
+                    <a class="boton" id="botonDec" type="button" value="Desencriptar"><span class="boton__span boton__span-desencriptar">Desencriptar</span></a>
+
+                </div>
+            </form>
+
+        </div>
+
+
+
+
+      <div class="output">
+          <form class="output__form" action="">
+              <div class="output__texto">
+                  <textarea class="output__textarea textarea" name="tArea" id="tArea" cols="" rows=""></textarea>
+                  <a class="boton " id="botonCop" type="button" value="Copiar"><span class="boton__span boton__span-copiar ">Copiar</span></a>
+                </div>
+              <div id="tapa" class="output__tapa">
+                  <img class="output__img" src="./img/Muñeco.png" alt="">
+                  <p class="output__parrado1">Ningún mensaje fue encontrado</p>
+                  <p class="output__parrado2">Ingresa el texto que desees encriptar o desencriptar.</p>
+              </div>
+          </form>
+      </div>
+  </div>
+
+  <footer class="footer">
+      <p> Pattern Responsive Design: Tiny Tweaks</p>
+      <div class="footer__nombre">
+          <p> Desarollado por Matias Ponce </p>
+          <a class="footer__link" href="aaa" target="_blank"><img
+                  class="footer__logo" src="./img/github-logo-24.png" alt="logo github"></a>
+      </div>
+  
+</body>
+
+<script src="/javaScript/main.js"></script>
+<script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+
+</html>
