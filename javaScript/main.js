@@ -92,6 +92,7 @@ function validar() {
             showConfirmButton: true,
             backdrop: `
             rgba(123, 8, 0, 0.4)
+            <iframe src="https://giphy.com/embed/dW6SH3HDxZjbzUT0kF" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/BareTreeMedia-cheer-cheering-cactusboi-dW6SH3HDxZjbzUT0kF">via GIPHY</a></p>
             url("./img/nyan-cat.gif")
             left top
             no-repeat
