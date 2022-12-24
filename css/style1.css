@@ -216,10 +216,7 @@ body {
     justify-content: center;
 }
 
-.footer__nombre {
-    display: flex;
-    gap: 5px;
-}
+
 
 /* media 768 */
 
