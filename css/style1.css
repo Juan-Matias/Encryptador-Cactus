@@ -1,5 +1,4 @@
 
-
 * {
     margin: 0;
     padding: 0;
@@ -59,7 +58,11 @@ body {
 
 
 
+
 .encriptador {
+    width: 1440px;
+    height: 100vh;
+    margin: 0 auto;
     display: flex;
     justify-content: space-around;
     height: 96%;
@@ -218,9 +221,10 @@ body {
 
 
 
+
 /* media 768 */
 
-@media (max-width: 1024px) {
+@media (max-width: 1A024px) {
     .container {
         width: 100vw;   
     }

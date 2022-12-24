@@ -79,10 +79,13 @@ function copiar() {
 
 function validar() {
     let nuevomensaje = document.getElementById("texto").value;
+
     if (nuevomensaje.match(letras) != null) {
         limpiar();
         foco();
         Swal.fire({
+     
+    
             position: 'center',
             icon: 'error',
             title: 'Solo letras minúsculas y sin acentos',
