@@ -9,7 +9,7 @@ Prueba la pagina aqui
 <div align="center"><img src="img/logo.svg" width="64"/></div>
 <p align="center" >
      
-     <img src=".//imagen.PNG" alt="Encriptador de texto">
+     <img src="./imagen.PNG" alt="Encriptador de texto">
     
 </p>
 
