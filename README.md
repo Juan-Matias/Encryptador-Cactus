@@ -6,11 +6,11 @@ Prueba la pagina aqui
 
 # 🔏 Encriptador de texto
 
- 
-     <img src="./imagen.png" alt="Encriptador de texto">
+<div align="center"><img src="img/logo.svg" width="64"/></div>
+<p align="center" >
+     <img width="500" heigth="300" src="https://user-images.githubusercontent.com/91544872/157673573-5e781ce9-601c-4ea3-9db1-b60bebf717aa.png">
+</p>
     
-
-
 <div align="center">
     <img src="https://img.shields.io/badge/JavaScript-5A5A5A?logo=javascript&logoColor=yelllow"/>
     <img src="https://img.shields.io/badge/HTML-5A5A5A?logo=html5" />
