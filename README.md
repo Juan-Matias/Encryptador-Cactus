@@ -8,7 +8,7 @@ Prueba la pagina aqui
 
 <div align="center"><img src="img/logo.svg" width="64"/></div>
 <p align="center" >
-     <img width="500" heigth="300" src="https://github.com/Juan-Matias/JuanMatias-one-challenge-encriptador/blob/f4397a808546c08ce6dbdeeea79d6558eb4ee2ef/imagen.PNG">
+     <src="https://github.com/Juan-Matias/JuanMatias-one-challenge-encriptador/blob/f4397a808546c08ce6dbdeeea79d6558eb4ee2ef/imagen.PNG">
      
 </p>
 
