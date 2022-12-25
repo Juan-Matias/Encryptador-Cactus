@@ -6,12 +6,10 @@ Prueba la pagina aqui
 
 # 🔏 Encriptador de texto
 
-<div align="center"><img src="img/logo.svg" width="64"/></div>
-<p align="center" >
-     
+ 
      <img src="./imagen.PNG" alt="Encriptador de texto">
     
-</p>
+
 
 <div align="center">
     <img src="https://img.shields.io/badge/JavaScript-5A5A5A?logo=javascript&logoColor=yelllow"/>
