@@ -7,7 +7,7 @@ Prueba la pagina aqui
 # 🔏 Encriptador de texto
 
  
-     <img src="./imagen.PNG" alt="Encriptador de texto">
+     <img src="./imagen.png" alt="Encriptador de texto">
     
 
 
