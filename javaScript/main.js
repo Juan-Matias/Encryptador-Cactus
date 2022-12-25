@@ -6,7 +6,6 @@ const botonB = document.getElementById("botonborrar");
 const letras = /[A-Z~!@#$%^&*()_+|}{[\]\\\/?><:"`;.,áéíóúàèìòù'1-9]/g;
 
 
-
 function img() {
     var textoVacio = "";
     let textoT = document.getElementById("tArea").value;
@@ -83,17 +82,16 @@ function validar() {
     if (nuevomensaje.match(letras) != null) {
         limpiar();
         foco();
+  
+
         Swal.fire({
-     
-    
             position: 'center',
             icon: 'error',
             title: 'Solo letras minúsculas y sin acentos',
             showConfirmButton: true,
             backdrop: `
             rgba(123, 8, 0, 0.4)
-            <iframe src="https://giphy.com/embed/dW6SH3HDxZjbzUT0kF" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/BareTreeMedia-cheer-cheering-cactusboi-dW6SH3HDxZjbzUT0kF">via GIPHY</a></p>
-            url("./img/nyan-cat.gif")
+            url("./img/cactus-dance.gif")
             left top
             no-repeat
           `
@@ -113,6 +111,8 @@ function borrar() {
 
 foco();
 botonE.addEventListener("click", validar);
+
+
 botonE.addEventListener("click", encriptar);
 
 botonD.addEventListener("click", validar);
