@@ -8,8 +8,9 @@ Prueba la pagina aqui
 
 <div align="center"><img src="img/logo.svg" width="64"/></div>
 <p align="center" >
-     <src="https://github.com/Juan-Matias/JuanMatias-one-challenge-encriptador/blob/f4397a808546c08ce6dbdeeea79d6558eb4ee2ef/imagen.PNG">
      
+     <img src=".//imagen.PNG" alt="Encriptador de texto">
+    
 </p>
 
 <div align="center">
