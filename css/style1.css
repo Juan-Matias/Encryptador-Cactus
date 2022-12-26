@@ -224,7 +224,7 @@ body {
 
 /* media 768 */
 
-@media (max-width: 1A024px) {
+@media (max-width: 1024px) {
     .container {
         width: 100vw;   
     }
