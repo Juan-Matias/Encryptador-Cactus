@@ -108,6 +108,7 @@ body {
     position: relative;
 }
 
+
 .input__advertencia {
     position: absolute;
     font-size: 20px;
@@ -229,7 +230,8 @@ body {
         width: 100vw;   
     }
     .encriptador {
-        height: 90%;
+        
+        
         flex-direction: column;
         align-items: center;
         gap: 20px;
@@ -249,10 +251,6 @@ body {
         gap: 20px;
     }
     
-    .extra__smilei,
-    .extra__vectorp {
-        display: none;
-    }
 
     .input__botones {
         width: 100%;
@@ -291,7 +289,8 @@ body {
         height: 100%;
     }
     .encriptador{
-        height: 100%;
+        width: 768px;
+        height: 1384px;
     }
     .input {
         width: 80%;
@@ -306,6 +305,37 @@ body {
     .output {
         width: 80%;
         height: 40vh;
+    }
+    
+}
+
+@media (max-width: 375px) {
+
+    .container {
+        height: 100%;
+    }
+    .encriptador{
+        width: 375px;
+        height: 933px;
+    }
+    .input {
+        width: 80%;
+        height: 80vh;
+    }
+
+    .input__advertencia
+    {
+        display:none;
+    }
+
+    .input__botones {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .output {
+        width: 92%;
+        height: 30vh;
     }
     
     
