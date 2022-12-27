@@ -7,7 +7,7 @@ Prueba la pagina aqui
 # 🔏 Encriptador de texto
 
 <p align="center" >
-     <img src="https://github.com/Juan-Matias/JuanMatias-one-challenge-encriptador/blob/f4397a808546c08ce6dbdeeea79d6558eb4ee2ef/imagen.jpg">
+     <img src="https://github.com/Juan-Matias/JuanMatias-one-challenge-encriptador/blob/ded5f1ba8edd12cee7d1fe34c610095ee7642c4b/imagen.jpg">
 </p>
     
 <div align="center">
