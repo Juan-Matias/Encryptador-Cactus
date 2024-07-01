@@ -6,7 +6,7 @@ Prueba la pagina aqui:
 # 🔏 Encriptador de texto
 
 <p align="center" >
-     <img src="https://github.com/Juan-Matias/JuanMatias-one-challenge-encriptador/blob/ded5f1ba8edd12cee7d1fe34c610095ee7642c4b/imagen.jpg">
+     <img src="https://github.com/Juan-Matias/CarreteCervecero/blob/cd64fe6bbdeed8a2f32dd89164afd73abb5eaa70/MOCKUP/2.png">
 </p>
     
 <div align="center">
