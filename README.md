@@ -6,7 +6,7 @@ Prueba la pagina aqui:
 # 🔏 Encriptador de texto
 
 <p align="center" >
-     <img src="https://github.com/Juan-Matias/Encryptador-Cactus/blob/492b509e5b414b11c18c3c15b7bf05b911f06a03/imagen.jpg">
+     <img src="https://github.com/Juan-Matias/Encryptador-Cactus/blob/a4c3f3840cf11e6d682f34905f7cf24b754b51e6/Background%20(2).png">
 </p>
     
 <div align="center">
